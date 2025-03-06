@@ -1,3 +1,10 @@
 {
     "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJleHAiOjE3NDEyODg5MTV9.A0_7pjWFST8Gc5mdkadrpvAH1g4mJaQfNLp4h-6Uj_I"
 }
+
+// register token
+// Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJleHAiOjE3NDEyODkxNDl9.hbk_5iV08km58FUP7GN0XyP0eFllf38mSEHsQs6_nls
+
+{
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoxLCJleHAiOjE3NDEyODkxNDl9.hbk_5iV08km58FUP7GN0XyP0eFllf38mSEHsQs6_nls"
+}
